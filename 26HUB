@@ -5,6 +5,7 @@
 -- CONFIGURATION (MODIFIE TA CLÉ ICI)
 -- ==========================================
 local KEY_VALIDE = "KEY-49837887257" -- C'est la clé que tu dois donner aux gens
+local KEY_VALIDE = "KEY-4983787892757"
 local FILE_NAME = "26HUB" -- Fichier qui mémorise la clé sur leur appareil
 
 -- Services
